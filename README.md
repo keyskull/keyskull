@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ###### -> My portfolio
 https://keyskull.github.io/
 
