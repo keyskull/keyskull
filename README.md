@@ -1,13 +1,12 @@
+[![](https://github-readme-stats.vercel.app/api?username=keyskull&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 ###### -> My Gists
 https://gist.github.com/keyskull/
 
 
-###### -> My portfolio
+###### -> My Portfolio
 https://keyskull.github.io/
 
-###### -> My Github Stats
-[![](https://github-readme-stats.vercel.app/api?username=keyskull&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
