@@ -1,4 +1,7 @@
-[![](https://github-readme-stats.vercel.app/api?username=keyskull&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keyskull&show_icons=true&theme=gruvbox)](https://keyskull.github.io/) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyskull&layout=compact&langs_count=12&theme=gruvbox)](https://keyskull.github.io/)
+
 
 ###### -> My Gists
 https://gist.github.com/keyskull/
