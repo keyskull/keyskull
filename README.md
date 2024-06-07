@@ -1,6 +1,6 @@
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keyskull&show_icons=true&theme=gruvbox)](https://keyskull.github.io/) 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keyskull&show_icons=true&theme=gruvbox)](https://www.cullen.li/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyskull&layout=compact&langs_count=12&theme=gruvbox)](https://www.cullen.li/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyskull&layout=compact&langs_count=12&theme=gruvbox)](https://keyskull.github.io/)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=keyskull)](https://www.cullen.li/)
 
 <!--
 Stat chart: https://github.com/anuraghazra/github-readme-stats
@@ -11,11 +11,11 @@ https://gist.github.com/keyskull/
 
 
 ###### -> My Portfolio
-https://keyskull.github.io/
+https://www.cullen.li/
 
 ###### -> Visitors Count
 
-[![Visitors Count](https://profile-counter.glitch.me/keyskull/count.svg)](https://keyskull.github.io/)
+[![Visitors Count](https://profile-counter.glitch.me/keyskull/count.svg)](https://www.cullen.li/)
 
 
 
